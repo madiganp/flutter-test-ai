@@ -1,1 +1,0 @@
-enum FormDataType { text, file }
